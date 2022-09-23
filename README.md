@@ -1,2 +1,2 @@
-# Sunday Deep Brunch
-딥러닝 온라인 스터디 기록
+# ☀️ Sunday Deep Brunch
+* Online Study Group for ML/DL
